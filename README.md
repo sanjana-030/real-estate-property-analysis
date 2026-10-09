@@ -45,8 +45,7 @@ This project analyzes real estate property data using Microsoft Excel to underst
 - Unfurnished properties have the highest average price among furnishing types.
 - K. Brown handles the highest number of property listings, with 101 properties.
 
----
 
-## 📸 Dashboard Preview
+
 
 ![Real Estate Dashboard](dashboard.png)
