@@ -44,8 +44,3 @@ This project analyzes real estate property data using Microsoft Excel to underst
 - Pending properties have the highest share (36.86%), followed by Sold (33.33%) and Active (29.80%).
 - Unfurnished properties have the highest average price among furnishing types.
 - K. Brown handles the highest number of property listings, with 101 properties.
-
-
-
-
-![Real Estate Dashboard](dashboard.png)
